@@ -6,7 +6,7 @@ This current repository (is NOT of/from the book), it aims to bridge the struggl
 Some Sections are derived from https://github.com/luweizheng/flink-tutorials and upgraded, compiled from FLink v1.11 to Flink 1.16. 
 Please refer POM for additional details.
 
-![alt text](https://github.com/keshavksingh/flink-streaming-project/Flink-Architecture.png?raw=true)
+![alt text](https://github.com/keshavksingh/flink-streaming-project/blob/main/Flink-Architecture.png?raw=true)
 
 Connect - 
 [Medium] https://tinyurl.com/54fhvbhj
