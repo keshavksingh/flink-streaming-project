@@ -3,8 +3,9 @@ This is is a FLINK 1.16 Compiled Scala Repository. It enables a great jump start
 
 This current repository aims to ease the struggle of the audience in their learning journey by providing Flink 1.16 scala code. 
 
-Derived sections from https://github.com/luweizheng/flink-tutorials and upgraded, complied from FLink v1.11 to the 1.16. 
+Derived sections from https://github.com/luweizheng/flink-tutorials and upgraded, compiled from FLink v1.11 to Flink 1.16. 
+Please refer POM for additional details.
 
 Connect - 
-https://medium.com/@masterkeshav
-https://www.linkedin.com/in/keshavksingh/
+[Medium] https://medium.com/@masterkeshav
+[LinkedIn] https://www.linkedin.com/in/keshavksingh/
