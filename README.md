@@ -8,7 +8,7 @@ Please refer POM for additional details.
 
 ![alt text](https://github.com/keshavksingh/flink-streaming-project/blob/main/Flink-Architecture.png?raw=true)
 
-Connect - 
+# Connect 
 [Medium] https://tinyurl.com/54fhvbhj
 [LinkedIn] https://tinyurl.com/5ay32aty
 
